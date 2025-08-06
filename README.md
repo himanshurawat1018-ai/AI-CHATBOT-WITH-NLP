@@ -19,3 +19,4 @@ Project Description (Approx. 300–350 words): This project is a simple rule-bas
 The chatbot works by accepting user input using the input() function and analyzing the message through a series of conditional checks using if-elif-else statements. The responses are hard-coded and triggered based on specific keywords or phrases such as "hello", "how are you", or "bye". If the input matches any known pattern, a predefined response is returned. If not, a default message is shown indicating the chatbot didn’t understand the input.
 
 # OUTPUT
+<img width="1383" height="267" alt="Image" src="https://github.com/user-attachments/assets/daa7b670-35b5-43aa-aaa9-d8401b96e186" />
